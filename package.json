@@ -1,0 +1,23 @@
+{
+  "name": "consolecalculator",
+  "version": "1.0.0",
+  "description": "Lesson 2 otus course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LutoshkinNS/ConsoleCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LutoshkinNS/ConsoleCalculator/issues"
+  },
+  "homepage": "https://github.com/LutoshkinNS/ConsoleCalculator#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0"
+  }
+}
